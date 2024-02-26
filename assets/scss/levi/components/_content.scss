@@ -1,0 +1,22 @@
+.content {
+    background-color: $light;
+    border-radius: 8px;
+    text-align: center;
+    padding: 25px 0;
+    span {
+        display: block;
+        line-height: 170%;
+        strong {
+            color: hsl(179, 62%, 43%);
+        }
+    }
+}
+
+.total {
+    text-align: center;
+    font-size: 20px;
+    span {
+        font-style: italic;
+        font-weight: 500;
+    }
+}

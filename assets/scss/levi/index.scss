@@ -1,0 +1,16 @@
+/*Function and variables*/
+@import 'functions';
+@import 'variables';
+
+/*Base and Layout*/
+@import 'base';
+@import 'breakpoints';
+@import 'grid';
+
+// components (button, card, navbar)
+@import 'components/header';
+@import 'components/button';
+@import 'components/content';
+@import 'components/form';
+@import 'components/footer';
+@import 'components/result';

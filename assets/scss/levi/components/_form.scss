@@ -1,0 +1,23 @@
+.form {
+    text-align: center;
+    border: 1px solid $light;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 35px 0;
+    label {
+        display: block;
+        width: 100%;
+    }
+    input {
+        display: inline-block;
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        text-align: center;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+}

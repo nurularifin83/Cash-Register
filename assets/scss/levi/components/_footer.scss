@@ -1,0 +1,15 @@
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 12px;
+    span {
+        color: $danger;
+        font-size: 1.245rem;
+    }
+    a {
+        color: inherit;
+        &:hover {
+            color: hsl(228, 45%, 44%);
+        }
+    }
+}
